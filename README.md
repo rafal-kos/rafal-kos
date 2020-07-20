@@ -13,7 +13,7 @@ I'm Rafał.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27954](https://github.com//magento/magento2/issues/27954) in [magento/magento2](https://github.com//magento/magento2)
-<!--END_SECTION:activity-->
-
+1. ❗️ Closed issue [#7](https://github.com//dotpay/magento2-payment/issues/7) in [dotpay/magento2-payment](https://github.com//dotpay/magento2-payment)
+2. 🗣 Commented on [#27954](https://github.com//magento/magento2/issues/27954) in [magento/magento2](https://github.com//magento/magento2)
+3. ❗️ Opened issue [#27954](https://github.com//magento/magento2/issues/27954) in [magento/magento2](https://github.com//magento/magento2)
 ---

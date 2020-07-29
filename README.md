@@ -18,7 +18,7 @@ I'm Rafał. I'm working with Magento from 10 years. I'm fan of Magento optimizat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-2. ❗️ Closed issue [#7](https://github.com//dotpay/magento2-payment/issues/7) in [dotpay/magento2-payment](https://github.com//dotpay/magento2-payment)
-3. 🗣 Commented on [#27954](https://github.com//magento/magento2/issues/27954) in [magento/magento2](https://github.com//magento/magento2)
+1. ❗️ Closed issue [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+2. 🗣 Commented on [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+3. ❗️ Opened issue [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->

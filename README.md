@@ -18,4 +18,3 @@ I'm Rafał. I'm working with Magento from 10 years. I'm fan of Magento optimizat
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->

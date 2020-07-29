@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Rafał. 
+I'm Rafał. I'm working with Magento from 10 years. I'm fan of Magento optimizations:
+* backend - profiling code using [xdebug](https://xdebug.org/), [SPX](https://github.com/NoiseByNorthwest/php-spx) or [Blackfire](https://blackfire.io/)
+* frontend - improving Google PageSpeed Index score, removing unused, unwanted javascript, implementing [MagePack](https://github.com/magesuite/magepack/)
 
 📫 How to reach me:
 
@@ -13,11 +15,4 @@ I'm Rafał.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com//dotpay/magento2-payment/issues/7) in [dotpay/magento2-payment](https://github.com//dotpay/magento2-payment)
-2. 🗣 Commented on [#27954](https://github.com//magento/magento2/issues/27954) in [magento/magento2](https://github.com//magento/magento2)
-3. undefined
 <!--END_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com//dotpay/magento2-payment/issues/7) in [dotpay/magento2-payment](https://github.com//dotpay/magento2-payment)
-2. 🗣 Commented on [#27954](https://github.com//magento/magento2/issues/27954) in [magento/magento2](https://github.com//magento/magento2)
-3. ❗️ Opened issue [#27954](https://github.com//magento/magento2/issues/27954) in [magento/magento2](https://github.com//magento/magento2)
----

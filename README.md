@@ -14,9 +14,9 @@ I'm Rafał. I'm working with Magento from 10 years. I'm fan of Magento optimizat
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/rafalkos) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rafal-kos)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29483](https://github.com//magento/magento2/issues/29483) in [magento/magento2](https://github.com//magento/magento2)
-2. 💪 Opened PR [#29483](https://github.com//magento/magento2/pull/29483) in [magento/magento2](https://github.com//magento/magento2)
-3. ❗️ Closed issue [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🗣 Commented on [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. ❗️ Opened issue [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#29483](https://github.com/magento/magento2/issues/29483) in [magento/magento2](https://github.com/magento/magento2)
+2. 💪 Opened PR [#29483](https://github.com/magento/magento2/pull/29483) in [magento/magento2](https://github.com/magento/magento2)
+3. ❗️ Closed issue [#7](https://github.com/jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+4. 🗣 Commented on [#7](https://github.com/jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+5. ❗️ Opened issue [#7](https://github.com/jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
